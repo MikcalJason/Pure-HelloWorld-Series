@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c047c533-e979-429f-afcc-203a3aafe079" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../pure-easyexcel/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pure-commons-pool/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pure-commons-pool/src/main/java/com/quick/start/pure/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pure-commons-pool/src/main/java/org/example/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pure-commons-pool/src/main/java/com/quick/start/pure/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pure-commons-pool/src/main/java/org/example/pool/PoolAutoConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pure-commons-pool/src/main/java/com/quick/start/pure/pool/PoolAutoConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pure-commons-pool/src/main/java/org/example/pool/PoolProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pure-commons-pool/src/main/java/com/quick/start/pure/pool/PoolProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pure-commons-pool/src/main/java/org/example/pool/TestObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pure-commons-pool/src/main/java/com/quick/start/pure/pool/TestObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pure-commons-pool/src/main/java/org/example/pool/TestObjectFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pure-commons-pool/src/main/java/com/quick/start/pure/pool/TestObjectFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pure-commons-pool/src/main/java/org/example/pool/TestObjectPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pure-commons-pool/src/main/java/com/quick/start/pure/pool/TestObjectPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pure-dubbo/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pure-dubbo/src/main/java/com/quick/start/pure/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pure-easyexcel/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pure-easyexcel/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pure-easyexcel/src/main/java/org/example/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pure-easyexcel/src/main/java/com/quick/start/pure/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pure-hikariCP/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pure-hikariCP/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pure-hikariCP/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pure-hikariCP/src/main/java/com/quick/start/pure/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/first/src/main/java/com/quick/start/pure/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="c047c533-e979-429f-afcc-203a3aafe079" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
