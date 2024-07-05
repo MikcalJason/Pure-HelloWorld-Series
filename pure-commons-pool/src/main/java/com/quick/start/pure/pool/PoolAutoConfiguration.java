@@ -1,4 +1,4 @@
-package org.example.pool;
+package com.quick.start.pure.pool;
 
 import org.apache.commons.pool2.impl.GenericObjectPoolConfig;
 import org.springframework.beans.factory.annotation.Autowired;

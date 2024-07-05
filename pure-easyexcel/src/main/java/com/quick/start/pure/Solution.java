@@ -1,4 +1,4 @@
-package org.example;
+package com.quick.start.pure;
 
 public class Solution {
     public static void main(String[] args) {

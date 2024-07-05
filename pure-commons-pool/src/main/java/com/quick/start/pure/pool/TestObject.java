@@ -1,4 +1,4 @@
-package org.example.pool;
+package com.quick.start.pure.pool;
 
 /**
  * 需要池化的对象

@@ -1,4 +1,4 @@
-package org.example.pool;
+package com.quick.start.pure.pool;
 
 import org.apache.commons.pool2.PooledObjectFactory;
 import org.apache.commons.pool2.impl.AbandonedConfig;

@@ -1,7 +1,7 @@
-package org.example.controller;
+package com.quick.start.pure.controller;
 
-import org.example.pool.TestObject;
-import org.example.pool.TestObjectPool;
+import com.quick.start.pure.pool.TestObject;
+import com.quick.start.pure.pool.TestObjectPool;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,4 @@
-package org.example;
+package com.quick.start.pure;
 
 
 import org.springframework.boot.SpringApplication;

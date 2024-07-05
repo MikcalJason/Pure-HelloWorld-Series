@@ -1,4 +1,4 @@
-package org.example.pool;
+package com.quick.start.pure.pool;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
