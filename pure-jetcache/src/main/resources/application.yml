@@ -1,0 +1,31 @@
+server:
+  port: 8090
+jetcache:
+  statIntervalMinutes: 60
+  areaInCacheName: false
+  penetrationProtect: true
+  enableMethodCache: true
+  local:
+    default:
+      type: caffeine # 支持的类型：linkedhashmap、caffeine
+      limit: 100
+      keyConvertor: fastjson # 支持的类型：fastjson，可自定义转换器函数
+      expireAfterWriteInMillis: 600000
+      expireAfterAccessInMillis: 300000
+  remote:
+    default:
+      type: redis.lettuce # 支持的类型：redis、redis.lettuce
+      keyPrefix: '系统简称:所属名字:'
+      keyConvertor: fastjson
+      valueEncoder: java # 支持的类型：kryo、java，可自定义编码器
+      valueDecoder: java # 支持的类型：kryo、java，可自定义解码器
+      expireAfterWriteInMillis: 3600000
+      #readFrom: slavePreferred # 优先从Slave节点中读取
+#      uri: redis-sentinel://host1:26379,host2:26379,host3:26379/?sentinelMasterId=mymaster # 哨兵模式
+      uri: redis://127.0.0.1:6379
+      # 单节点模式
+      #mode: masterslave # 设置为主从模式
+      #uri: # 集群模式
+      #- redis://127.0.0.1:7000
+      #- redis://127.0.0.1:7001
+      #- redis://127.0.0.1:7002
