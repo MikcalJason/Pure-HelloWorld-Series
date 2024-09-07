@@ -1,0 +1,123 @@
+# 编译后产生的二进制文件  
+*.class  
+  
+# 包管理工具（如Maven, Gradle）产生的文件  
+# Maven  
+**/pom.xml.tag  
+**/pom.xml.releaseBackup  
+**/pom.xml.versionsBackup  
+**/pom.xml.next  
+**/release.properties  
+**/dependency-reduced-pom.xml  
+**/buildNumber.properties  
+**/.mvn/wrapper/maven-wrapper.jar  
+**/.mvn/wrapper/MavenWrapperDownloader.java  
+  
+# Gradle  
+.gradle/  
+build/  
+gradlew.bat  
+gradlew  
+gradle/  
+  
+# IDE（如IntelliJ IDEA, Eclipse, NetBeans）产生的文件和目录  
+# IntelliJ IDEA  
+*.iml  
+*.ipr  
+*.iws  
+.idea/  
+  
+# Eclipse  
+.classpath  
+.project  
+.settings/  
+bin/  
+*.tmp  
+*.bak  
+*.swp  
+*~.nib  
+local.properties  
+*.launch  
+.metadata/  
+  
+# NetBeans  
+nbproject/private/  
+nbbuild/  
+dist/  
+nbdist/  
+nbactions.xml  
+nb-configuration.xml  
+  
+# 编译生成的测试文件  
+**/*.test  
+  
+# 测试报告和其他测试输出  
+**/target/  
+**/bin/  
+**/out/  
+  
+# 依赖管理  
+.dependency-versions  
+  
+# 临时文件  
+*.log  
+*.tmp  
+*.pid  
+*.sublime-workspace  
+*.sublime-project  
+.DS_Store  
+  
+# 本地配置文件  
+*.properties  
+local.conf  
+  
+# 静态分析工具产生的文件  
+**/*.pmd  
+**/*.pmd.html  
+**/*.checkstyle  
+**/*.findbugs  
+**/*.spotbugs  
+  
+# 覆盖文件  
+*.coverage  
+  
+# 日志文件  
+*.log  
+logs/  
+*.log*  
+  
+# 数据库文件  
+*.db  
+*.db-journal  
+*.sqlite  
+  
+# 编译缓存  
+**/*.pyc  
+**/__pycache__/  
+  
+# 缓存目录  
+*.sbcache  
+*.sccache  
+  
+# IntelliJ IDEA 编译文件  
+**/*.hprof  
+  
+# SonarLint 插件  
+**/*.sonar  
+**/sonar-project.properties  
+  
+# 覆盖目录  
+**/coverage-reports  
+**/out/coverage  
+  
+# IDE用户特定设置  
+.idea/workspace.xml  
+.idea/tasks.xml  
+.idea/usage.statistics.xml  
+.idea/dictionaries  
+.idea/libraries  
+.idea/caches/  
+  
+# 其他  
+Thumbs.db  
+.DS_Store
